@@ -31,7 +31,7 @@ metadata:
   name: wordpress
   labels:
     app: wordpress
-    test: new-label
+    test: new-label1
 spec:
   selector:
     matchLabels:
